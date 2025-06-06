@@ -11,6 +11,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
-.badgbx{
-  left:85% !important;
+.infinite-scroll-component {
+    margin-bottom: 40px;
+}
+@media(max-width:649px) {
+  .main-head{
+    margin: 20px 0px 10px !important;
+  }
+  #root{
+    margin-bottom: 200px;
+  }
 }
